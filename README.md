@@ -5,7 +5,7 @@ This project implements an AI-powered music recommendation system using the Spot
 
 ## Installation Instructions
 To set up the project environment, follow these steps:
-1. Install Python (version X.X.X) if not already installed.
+1. Install Python (Python 3.7 or later) if not already installed.
 2. Install the required libraries using pip:
 
 ## Usage Instructions
